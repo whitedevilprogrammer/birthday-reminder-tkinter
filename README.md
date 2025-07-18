@@ -4,6 +4,21 @@ A lightweight, cross-platform desktop application to help you manage and get not
 
 ---
 
+## 🖼️ Screenshots
+
+Here’s a screenshot of the Birthday Reminder app UI:
+![Birthday Reminder Screenshot](https://www.instagram.com/p/CZKVpbopyxs/media/?size=l)
+> _[View on Instagram](https://www.instagram.com/p/CZKVpbopyxs/?utm_source=ig_web_copy_link)_
+
+---
+
+## 📹 Demo Video
+
+See the app in action:  
+[▶️ Watch Demo on Instagram Reels](https://www.instagram.com/reel/CZKUbx4hD_5/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+
+---
+
 ## 🚀 Features
 
 - ✅ **Add Birthdays Easily**  
@@ -96,6 +111,10 @@ birthday-reminder-tkinter/
 ├── remind_setting.txt            # Notification settings
 ├── colour less/birthday_remainder/
 │   └── *.pyw, *.txt              # Alternate UI and data
+├── screenshots/
+│   └── screenshot1.png
+│   └── screenshot2.png
+│   └── demo-preview.gif
 ```
 
 ---
@@ -129,7 +148,3 @@ This project is currently unlicensed. You may fork, use, or contribute — attri
 ## 👤 Author
 
 Developed with ❤️ by [whitedevilprogrammer](https://github.com/whitedevilprogrammer)
-
-```
-
-Let me know if you want badges (like Python version, platform, etc.) or screenshots/gif previews added at the top!
